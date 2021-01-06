@@ -17,7 +17,7 @@ Os tópicos a seguir serão tratados (eventualmente...):
 
 ## Abordagem
 
-Amigável ao iniciante. Não considerarei nenhum conhecimento prévio do leitor (na medida do possível), incluindo conhecimentos em hardware ou software. Tentarei escrever o material de maneira mais autocontida possível, isso implica que algumas seções serão bastante teóricas e tentarei indicá-las para que o leitor que prefira focar nos tópicos mais aplicados possa pular trechos que não esteja interessado. Tenha em mente que eu tenho uma concepção pedagógica ao escrever e talvez seja interessante não saltar a teoria.
+Amigável ao iniciante. Não considerarei nenhum conhecimento prévio do leitor além de alguma familiaridade com lógica digital e representações numéricas. Tentarei escrever o material de maneira mais autocontida possível, isso implica que algumas seções serão bastante teóricas e tentarei indicá-las para que o leitor que prefira focar nos tópicos mais aplicados possa pular trechos que não esteja interessado. Tenha em mente que eu tenho uma concepção pedagógica ao escrever e talvez seja interessante não saltar a teoria.
 
 Mão na massa. É impossível desenvolver qualquer habilidade sem que você mesmo faça alguma coisa com ela. Trabalhe nos exercícios.
 
